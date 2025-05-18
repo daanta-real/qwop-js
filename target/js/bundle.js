@@ -732,19 +732,19 @@ var game;
     /**
      * Upper arm parameters.
      */
-    GameConstants.rUArmPosX = 1.165;
+    GameConstants.rUArmPosX = 0.75;
     /**
      * Upper arm parameters.
      */
-    GameConstants.rUArmPosY = -3.616;
+    GameConstants.rUArmPosY = -3.65;
     /**
      * Upper arm parameters.
      */
-    GameConstants.lUArmPosX = 4.475;
+    GameConstants.lUArmPosX = 5.5;
     /**
      * Upper arm parameters.
      */
-    GameConstants.lUArmPosY = -2.911;
+    GameConstants.lUArmPosY = -2.5;
     /**
      * Upper arm parameters.
      */
@@ -788,19 +788,19 @@ var game;
     /**
      * Lower arm parameters.
      */
-    GameConstants.rLArmPosX = 0.3662;
+    GameConstants.rLArmPosX = 0;
     /**
      * Lower arm parameters.
      */
-    GameConstants.rLArmPosY = -1.248;
+    GameConstants.rLArmPosY = -1.35;
     /**
      * Lower arm parameters.
      */
-    GameConstants.lLArmPosX = 5.899;
+    GameConstants.lLArmPosX = 7.5;
     /**
      * Lower arm parameters.
      */
-    GameConstants.lLArmPosY = -3.06;
+    GameConstants.lLArmPosY = -2.5;
     /**
      * Lower arm parameters.
      */
